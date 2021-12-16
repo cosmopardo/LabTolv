@@ -2,7 +2,9 @@
 
   ![portada](https://user-images.githubusercontent.com/33662786/146429752-e40df9bc-afb7-4c98-9c15-a117d4b91f03.png)
 
-## **S.E.R**
+<h1 align="center"> S.E.R </h1>
+<h2 align="center"> Simulador de Experiencias Responsivas</h2>
+  
 Recetario del S.E.R _ Experiencias Responsivas de codigo abierto
   por el colectivo de [Hecho En Maipu](https://www.instagram.com/hechoenmaipu/)
   -laboratorio ciudadano autogestionado-
@@ -42,25 +44,25 @@ Instalacion Site Specific:
   - Colectivo Hecho en Maipu @hechoenmaipu
   
 Intervenciones:
-  - Colectivo En las Flores @enlas.flores 
-  - Ariel Costanza @ariel.cost
-  - Pato Donal @italo.uriel 
-  - Nico Bambini @nicolino.bambini
+- Colectivo En las Flores @enlas.flores 
+- Ariel Costanza @ariel.cost
+- Pato Donal @italo.uriel 
+- Nico Bambini @nicolino.bambini
   
 Puesta a punto:
-  - Vito Saez @vito.saez
+- Vito Saez @vito.saez
   
   Programacion: 
-  - Ariel Costanza @ariel.cost
+- Ariel Costanza @ariel.cost
   
   Iluminacion:
-  - Manu Orellana @manu.orellana_
+- Manu Orellana @manu.orellana_
   
   Herreria: 
-  - David Monzon @davidmonzon2525
+- David Monzon @davidmonzon2525
 
   Producción General: 
-  - Colectivo Hecho en Maipu @hechoenmaipu
+- Colectivo Hecho en Maipu @hechoenmaipu
 
 #SER #responsive #tolvas #lab 
 #iot #opensource #maker #diy #wifi
