@@ -40,23 +40,26 @@ Coordinadora El Molino:
 
 Instalacion Site Specific:
   - Colectivo Hecho en Maipu @hechoenmaipu
-
-Intervenciones: 
+  
+Intervenciones:
   - Colectivo En las Flores @enlas.flores 
   - Ariel Costanza @ariel.cost
   - Pato Donal @italo.uriel 
-  - Nico Bambini @nicolino.bambini 
-
+  - Nico Bambini @nicolino.bambini
+  
 Puesta a punto:
   - Vito Saez @vito.saez
-Programacion: 
-  - Ariel Costanza @ariel.cost 
-Iluminacion: 
+  
+  Programacion: 
+  - Ariel Costanza @ariel.cost
+  
+  Iluminacion:
   - Manu Orellana @manu.orellana_
-Herreria: 
+  
+  Herreria: 
   - David Monzon @davidmonzon2525
 
-Producción General: 
+  Producción General: 
   - Colectivo Hecho en Maipu @hechoenmaipu
 
 #SER #responsive #tolvas #lab 
