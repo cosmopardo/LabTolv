@@ -11,7 +11,7 @@ Recetario del S.E.R _ Experiencias Responsivas de codigo abierto
   Santa Fe, Argentina. 2021
 
 ### Manifiesto
-  Una instalación que busca convertir las tolvas del molino en una emisora de experiencias empoderantes en los ámbitos de las tecnologías de la información, comunicación, programación y robótica.
+  Nos urge y moviliza convertir las tolvas de la fabrica cultural "el molino" en una emisora de experiencias empoderantes en los ámbitos de las tecnologías de la información, comunicación, programación y robótica; por eso: èsta instalacion site-specific.
   
   Pensar a las tolvas como una interfaz dentro de un ambiente inmersivo: El **S.E.R**, en donde la interacción entre objetos físicos y virtuales buscarà producir una mirada crítica sobre la diferencias entre Ser el medio-ambiente en donde habitan los dispositivos con los que nos conectamos a internet, o que sean ellos el ambiente en donde nosotrxs estamos siendo.
   
