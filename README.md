@@ -57,20 +57,11 @@ Intervenciones:
 - [Pato Donal](https://www.instagram.com/italo.uriel)
 - [Nico Bambini](https://www.instagram.com/nicolino.bambini)
   
-Puesta a punto:
-- [Vito Saez](https://www.instagram.com/vito.saez)
-  
-  Programacion: 
-- [Ariel Costanza](https://www.instagram.com/ariel.cost)
-  
-  Iluminacion:
-- [Manu Orellana](https://www.instagram.com/manu.orellana_)
-  
-  Herreria: 
-- [David Monzon](https://www.instagram.com/davidmonzon2525)
-
-  Producción General: 
-- Colectivo [Hecho En Maipu](https://www.instagram.com/hechoenmaipu/)
+Puesta a punto: [Vito Saez](https://www.instagram.com/vito.saez)
+Programacion: [Ariel Costanza](https://www.instagram.com/ariel.cost)
+Iluminacion: [Manu Orellana](https://www.instagram.com/manu.orellana_)
+Herreria: [David Monzon](https://www.instagram.com/davidmonzon2525)
+Producción General: Colectivo [Hecho En Maipu](https://www.instagram.com/hechoenmaipu/)
 
 #SER #responsive #tolvas #lab 
 #iot #opensource #maker #diy #wifi
