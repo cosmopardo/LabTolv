@@ -26,43 +26,51 @@ Recetario del S.E.R _ Experiencias Responsivas de codigo abierto
   Vamos a hacer recetas de esas creaciones, para poder compartirlas, almacenarlas y compilarlas en un único recetario de todos los dispositivos y controladores ensamblados. un recetario que compile la experiencia de la población santafesina en su paso por ésta nueva experiencia.
   Lo que sí sabemos hoy, es que después de cien años de la primer transmisión radiofónica. cien años después de la construcción de estas mismas tolvas. vamos a convertirlas en una única Emisora de simulacros, en clave colaborativa e hipermediática: **Nuestro Simulador de Experiencias Responsivas: Nuestro S.E.R**
 
+## Tareas para hacer
+http://192.168.1.222/
 ### Recetario
-  
+/Acà vamos a explicar la funcion del recetario como modo de compilacion de las experiencias a lo largo del tiempo. Vamos a poder elegir montar tal o cual receta
+
+#### PD PureData
+/una breve sintesis de como opera pure data y sus parches como interpretes entre los perifericos de entrada y las producciones graficas con las que interactuamos en las tolvas.
+
+#### PDE Processing
+/Explicacion basica de como operamos la interfas grafica de las experiencias responsivas. 
 
 ## FullCrew IG:
 ### Hecho en Maipu:
-  - Zeci Rossini
-  - Xino Hernandez
-  - Jarri Tellechea
-  - Lion Batie
-  - Regi Piazza
+  - [Zechi Rossini](https://www.instagram.com/enaa_neee/)
+  - [Xino Hernandez](https://www.instagram.com/xinoo_o/)
+  - [Jarri Tellechea](https://www.instagram.com/fabricante_de_poliedros/)
+  - [Lion Batie](https://www.instagram.com/lionbatie/)
+  - [Regi Piazza](https://www.instagram.com/_palabrasprofanas/)
 
-Coordinadora El Molino: 
-  - Romi Brea @romi_brea
+Coordinadora [El Molino](https://www.instagram.com/elmolino.sf/): 
+  - [Romi Brea](https://www.instagram.com/romi_brea)
 
 Instalacion Site Specific:
-  - Colectivo Hecho en Maipu @hechoenmaipu
+  - Colectivo [Hecho En Maipu](https://www.instagram.com/hechoenmaipu/)
   
 Intervenciones:
-- Colectivo En las Flores @enlas.flores 
-- Ariel Costanza @ariel.cost
-- Pato Donal @italo.uriel 
-- Nico Bambini @nicolino.bambini
+- Colectivo [En las Flores](https://www.instagram.com/enlas.flores) 
+- [Ariel Costanza](https://www.instagram.com/ariel.cost)
+- [Pato Donal](https://www.instagram.com/italo.uriel)
+- [Nico Bambini](https://www.instagram.com/nicolino.bambini)
   
 Puesta a punto:
-- Vito Saez @vito.saez
+- [Vito Saez](https://www.instagram.com/vito.saez)
   
   Programacion: 
-- Ariel Costanza @ariel.cost
+- [Ariel Costanza](https://www.instagram.com/ariel.cost)
   
   Iluminacion:
-- Manu Orellana @manu.orellana_
+- [Manu Orellana](https://www.instagram.com/manu.orellana_)
   
   Herreria: 
-- David Monzon @davidmonzon2525
+- [David Monzon](https://www.instagram.com/davidmonzon2525)
 
   Producción General: 
-- Colectivo Hecho en Maipu @hechoenmaipu
+- Colectivo [Hecho En Maipu](https://www.instagram.com/hechoenmaipu/)
 
 #SER #responsive #tolvas #lab 
 #iot #opensource #maker #diy #wifi
